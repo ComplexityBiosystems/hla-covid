@@ -7,5 +7,6 @@ by Caterina A. M. La Porta and Stefano Zapperi
 
 paper submitted.
 
-
+Copyright (C) 2020 Caterina A. M. La Porta and Stefano Zapperi, 
+ Center for Complexity and Biosystems, University of Milan
 
