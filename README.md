@@ -27,6 +27,8 @@ MHCpan-flurry-HCoV-OC43.ipynb: This code is used to load the csv files containin
 	
 netMHCpan-load.ipynb: This code loads predictions from the netMHCpan server, applies a filter from netchop and saves data for further analysis.
 
+TcellPropensity-COVID.ipynb: This code is used to analyzed data from NetTepi
+
  
  
 
