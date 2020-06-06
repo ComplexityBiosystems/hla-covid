@@ -11,6 +11,7 @@ by Caterina A. M. La Porta and Stefano Zapperi
 paper submitted.
 
 Codes:
+
 Covid19-4_MHCflurry-chopped-all_alleles.ipynb: This codes runs MHCflurry to obtain predictions for SARS-CoV-2 peptides. Results are filtered with netchop and then saved for further analysis
 
 MHCpan-flurry-covid.ipynb: This code is used to load the csv files containing the predictions for peptides binding affinities obtained with netMHCflurry and netMHCpan4.0 and then filter the results comparing the two methods. The present code is applied to SARS-CoV-2 data.
