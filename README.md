@@ -5,9 +5,12 @@ Copyright (C) 2020 Caterina A. M. La Porta and Stefano Zapperi,
  Center for Complexity and Biosystems, University of Milan
 
 These codes were used to generate results and figures for the paper:
+
 Immune recognition of coronavirus peptides across human populations 
 by artificial neural networks
-by Caterina A. M. La Porta and Stefano Zapperi
+
+Caterina A. M. La Porta and Stefano Zapperi
+
 Cell Systems, in press 2020
 
 Codes:
