@@ -32,7 +32,7 @@ TcellPropensity-COVID.ipynb: This code is used to analyzed data from NetTepi
 Data:
 
 Data needed to run the codes, including predictions obtained from NetMHCpan and netchop.
-
+We also enclose the fasta files for Sars-Cov-2, Sars-Cov and HCoV-OC43
  
  
 
